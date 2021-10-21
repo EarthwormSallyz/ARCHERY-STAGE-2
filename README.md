@@ -1,2 +1,1 @@
-# ARCHERY-STAGE-2
-STAGE 2 ERROR
+# Project_Template_24
